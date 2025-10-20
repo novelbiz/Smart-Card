@@ -3,7 +3,7 @@
 โปรแกรม Command-line สำหรับอ่านข้อมูลจากบัตรประชาชนไทยผ่านเครื่องอ่านบัตรอัจฉริยะ (Smart Card Reader)
 
 **พัฒนาโดย:** Novelbiz (https://novelbiz.co.th)  
-**License:** MIT License 2025
+**License:** Apache License 2025
 
 ---
 
